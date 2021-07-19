@@ -9,4 +9,4 @@ ITensor: http://itensor.org/index.html
 TeNPy: https://tenpy.readthedocs.io/en/latest/#
 
 # Contact
-[Yixuan Huang](yixuan.huang@csun.edu)
+[Yixuan Huang] (yixuan.huang@csun.edu)
