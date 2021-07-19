@@ -5,6 +5,8 @@ DMRG code illustrations, simulation results of the spin-1 J1-J2-Jchi Heisenberg 
 
 # Reference
 ITensor: http://itensor.org/index.html
+
 TeNPy: https://tenpy.readthedocs.io/en/latest/#
 
 # Contact
+[Yixuan Huang](yixuan.huang@csun.edu)
