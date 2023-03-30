@@ -4,8 +4,3 @@ The file "spin_cor_J2_05_Jx_045_middle.dat" contains the spin correlation functi
 The first column stands for the site i, and the second column the site j, and the third colum the <S_i S_j> in the complex number form of (Real,Imag)
 
 
-To compile, use
-$gnuplot Gnuplot_Corr_RealSpace_2D_SU2.sh
-$latex Correlation_2D_SU2.tex
-$dvips Correlation_2D_SU2.dvi
-$ps2pdf Correlation_2D_SU2.ps
