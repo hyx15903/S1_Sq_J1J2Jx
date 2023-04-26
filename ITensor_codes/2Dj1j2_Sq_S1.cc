@@ -205,20 +205,11 @@ int main(int argc, char *argv[])
     args.add("YPeriodic", yperiodic);
     args.add("maxdim", 500);
     args.add("Cutoff", 1E-8);
-    if (lattice_type == "triangularXC_Ky")
-    {
-        args.add("ConserveQNs", true);
-        args.add("ConserveK", true);
-        args.add("ConserveSz", true);
-        args.add("Kmod", Ny);
-    }
     println(args);
-
     // Define space
     //
     SiteSet sites;
     sites = SpinOne(N);
-
     // Initialize the site degrees of freedom.
     //
     cout << "MPO" << endl;
