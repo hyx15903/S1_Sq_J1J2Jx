@@ -14,5 +14,4 @@ TeNPy: https://tenpy.readthedocs.io/en/latest/#
 
 # Contact
 [Yixuan Huang] (yixuan.huang@riken.jp)
-[Shoushu Gong] (shoushu.gong@gmail.com)
 [Donna Sheng] (donna.sheng1@csun.edu)
