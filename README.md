@@ -5,6 +5,7 @@ DMRG code illustrations, simulation results of the spin-1 J1-J2-Jchi Heisenberg 
 
 # Reference
 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.155104
+
 https://arxiv.org/abs/2108.06676
 
 ITensor: http://itensor.org/index.html
@@ -12,4 +13,6 @@ ITensor: http://itensor.org/index.html
 TeNPy: https://tenpy.readthedocs.io/en/latest/#
 
 # Contact
-[Yixuan Huang] (yixuan.huang@csun.edu)
+[Yixuan Huang] (yixuan.huang@riken.jp)
+[Shoushu Gong] (shoushu.gong@gmail.com)
+[Donna Sheng] (donna.sheng1@csun.edu)
